@@ -22,5 +22,18 @@ The analysis of the election show that:
     - Diana DeGette
     - Raymon Anthony Doane
 - The candidate results were:
-  - Charles Casper recieved 23% of the votes and 85,213 total votes
+  - Charles Casper recieved 23% of the vote and 85,213 total votes
+  - Diana DeGetter recieved 73.8% of the vote and 272,892 total votes
+  - Raymon Anthony Dones recieved 3.1% of the vote and 11,606 total votes
+- The winner of the election was Diana DeGetter who recieved 73.8% of the vote and 272,892 total votes
+
+## Challenge Overview
+
+We have been tasked with finding the below based on county turnout.
+
+1. The total number of votes per county
+2. The percentage of votes from each county out of the total count
+3. The county with the highest voter turnout
+
+## Challenge Summary
 
