@@ -30,10 +30,12 @@ The analysis of the election show that:
 ## Challenge Overview
 
 We have been tasked with finding the below based on county turnout.
+[election_analysis.txt](https://github.com/DrewSears11/Election_Analysis/files/9142424/election_analysis.txt)
 
 1. The total number of votes per county
-2. The percentage of votes from each county out of the total count
-3. The county with the highest voter turnout
+   As you can see from out text file we created
+3. The percentage of votes from each county out of the total count
+4. The county with the highest voter turnout
 
 ## Challenge Summary
 
