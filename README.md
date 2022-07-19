@@ -27,15 +27,15 @@ The analysis of the election show that:
   - Raymon Anthony Dones recieved 3.1% of the vote and 11,606 total votes
 - The winner of the election was Diana DeGetter who recieved 73.8% of the vote and 272,892 total votes
 
-## Challenge Overview
+## Challenge Overview & Summary
 
 We have been tasked with finding the below based on county turnout.
-[election_analysis.txt](https://github.com/DrewSears11/Election_Analysis/files/9142424/election_analysis.txt)
 
-1. The total number of votes per county
-   As you can see from out text file we created
-3. The percentage of votes from each county out of the total count
-4. The county with the highest voter turnout
-
-## Challenge Summary
-
+1. The total number of votes per county, percentage of votes from each county, and the county with the highest voter turnout.
+   As you can see from out text file we created from our Python Code [election_analysis.txt](https://github.com/DrewSears11/Election_Analysis/files/9142424/election_analysis.txt), Denver had the largest voter turnout by far with over 300,000 votes.  This was also a whopping 82.8% of the total votes.  Jefferson County was a distant second with 10.%% of the votes and Arapahoe was third with 6.7% of the votes.
+   County Votes:
+   Jefferson: 10.5% (38,855)
+   Denver: 82.8% (306,055)
+   Arapahoe: 6.7% (24,801)
+   
+   
