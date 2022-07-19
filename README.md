@@ -36,12 +36,12 @@ We have been tasked with finding the below based on county turnout.
 3. The county with the highest voter turnout.
    
    
-   -You can see from our text file we created from our Python Code [election_analysis.txt](https://github.com/DrewSears11/Election_Analysis/files/9142424/election_analysis.txt), that Denver had the largest voter turnout by far with over 300,000 votes.  This was also a whopping 82.8% of the total votes.  Jefferson County was a distant second with 10.%% of the votes and Arapahoe was third with 6.7% of the votes.  Below are the results as well
+   You can see from our text file we created from our Python Code [election_analysis.txt](https://github.com/DrewSears11/Election_Analysis/files/9142424/election_analysis.txt), that Denver had the largest voter turnout by far with over 300,000 votes.  This was also a whopping 82.8% of the total votes.  Jefferson County was a distant second with 10.%% of the votes and Arapahoe was third with 6.7% of the votes.  Below are the results as well
    
    
 - County Votes:
     - Jefferson: 10.5% (38,855)
-    -Denver: 82.8% (306,055)
-    -Arapahoe: 6.7% (24,801)
+    - Denver: 82.8% (306,055)
+    - Arapahoe: 6.7% (24,801)
    
    
